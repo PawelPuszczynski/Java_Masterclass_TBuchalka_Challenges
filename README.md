@@ -13,17 +13,17 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>Paweł Puszczyński</o:Author>
-  <o:LastAuthor>Paweł Puszczyński</o:LastAuthor>
+  <o:LastAuthor>pawel.puszczynski</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>1214</o:TotalTime>
-  <o:Created>2020-03-17T16:33:00Z</o:Created>
-  <o:LastSaved>2020-03-17T16:33:00Z</o:LastSaved>
+  <o:TotalTime>1332</o:TotalTime>
+  <o:Created>2020-03-23T20:44:00Z</o:Created>
+  <o:LastSaved>2020-03-23T20:44:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>2152</o:Words>
-  <o:Characters>12914</o:Characters>
-  <o:Lines>107</o:Lines>
-  <o:Paragraphs>30</o:Paragraphs>
-  <o:CharactersWithSpaces>15036</o:CharactersWithSpaces>
+  <o:Words>3094</o:Words>
+  <o:Characters>18566</o:Characters>
+  <o:Lines>154</o:Lines>
+  <o:Paragraphs>43</o:Paragraphs>
+  <o:CharactersWithSpaces>21617</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -34,7 +34,6 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <link rel=colorSchemeMapping href="BuchalkaReadme_pliki/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -713,6 +712,29 @@ h1
 	font-size:24.0pt;
 	font-family:"Times New Roman",serif;
 	mso-fareast-font-family:"Times New Roman";}
+p.MsoCommentText, li.MsoCommentText, div.MsoCommentText
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Tekst komentarza Znak";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";}
+span.MsoCommentReference
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;}
 a:link, span.MsoHyperlink
 	{mso-style-priority:99;
 	font-family:"Times New Roman",serif;
@@ -727,6 +749,38 @@ a:visited, span.MsoHyperlinkFollowed
 	mso-themecolor:followedhyperlink;
 	text-decoration:underline;
 	text-underline:single;}
+p.MsoCommentSubject, li.MsoCommentSubject, div.MsoCommentSubject
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"Tekst komentarza";
+	mso-style-link:"Temat komentarza Znak";
+	mso-style-next:"Tekst komentarza";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Tekst dymka Znak";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
 span.Nagwek1Znak
 	{mso-style-name:"Nagłówek 1 Znak";
 	mso-style-priority:9;
@@ -741,9 +795,39 @@ span.Nagwek1Znak
 	mso-hansi-font-family:"Times New Roman";
 	mso-font-kerning:18.0pt;
 	font-weight:bold;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
+span.TekstkomentarzaZnak
+	{mso-style-name:"Tekst komentarza Znak";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Tekst komentarza";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+span.TematkomentarzaZnak
+	{mso-style-name:"Temat komentarza Znak";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-parent:"Tekst komentarza Znak";
+	mso-style-link:"Temat komentarza";
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-weight:bold;}
+span.TekstdymkaZnak
+	{mso-style-name:"Tekst dymka Znak";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Tekst dymka";
+	mso-ansi-font-size:9.0pt;
+	mso-bidi-font-size:9.0pt;
+	font-family:"Segoe UI",sans-serif;
+	mso-ascii-font-family:"Segoe UI";
+	mso-hansi-font-family:"Segoe UI";
+	mso-bidi-font-family:"Segoe UI";}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -835,7 +919,7 @@ punctuation'>
  style='margin-left:5.75pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
-  <td width=618 colspan=4 valign=top style='width:463.15pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
@@ -844,7 +928,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:1.0cm'>
-  <td width=618 colspan=4 valign=top style='width:463.15pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -919,7 +1003,7 @@ punctuation'>
   line-height:normal'><span class=MsoHyperlink><span lang=EN-GB
   style='font-size:12.0pt;font-family:"Calibri",sans-serif;mso-ascii-theme-font:
   minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Segoe UI";
-  color:black;mso-ansi-language:EN-GB'><a
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/DataTypes_Operators/CharAndBoolean.java"><span
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
@@ -1051,7 +1135,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=585 colspan=3 valign=top style='width:438.85pt;border-top:none;
+  <td width=431 colspan=3 valign=top style='width:408.45pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1069,7 +1153,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:16.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=585 colspan=3 valign=top style='width:438.85pt;border-top:none;
+  <td width=431 colspan=3 valign=top style='width:408.45pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1135,20 +1219,26 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/AreaCalculator.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Area Calculator</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Area Calculator</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 style='width:85.75pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/AreaCalculator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;height:1.0cm'>
@@ -1173,20 +1263,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/BarkingDog.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Barking Dog</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Barking Dog</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/BarkingDog.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1212,20 +1306,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/DecimalComparator.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Decimal Comparator</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Decimal Comparator</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/DecimalComparator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1251,20 +1349,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/EqualSumChecker.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Equal Sum Checker</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Equal Sum Checker</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/EqualSumChecker.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1290,21 +1392,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/IntEqualityPrinter.txt"><span
-  class=SpellE><span style='mso-bidi-font-family:"Segoe UI"'>Int</span></span><span
-  style='mso-bidi-font-family:"Segoe UI"'> Equality Printer</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Int Equality Printer</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/IntEqualityPrinter.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1330,20 +1435,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/LeapYearCalculator.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Lap Year Calculator</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Lap Year Calculator</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/LapYearCalculator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1369,20 +1478,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/MegaBytesConverter.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Mega Bytes Converter</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Mega Bytes Converter</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/MegaBytesConverter.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1408,20 +1521,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/MethodsChallenge48.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Methods</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Methods</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Methods.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1447,20 +1564,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/MinutesToYearsAndDaysCalculator.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Minutes To Years and Days</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Minutes To Years and Days</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/MinutesToYearsAndDaysCalculator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1486,20 +1607,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/PlayingCat.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Playing Cat</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Playing Cat</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/PlayingCat.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1525,20 +1650,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/Seconds-and-Minutes.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Seconds And Minutes</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Seconds And Minutes</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/SecondsAndMinutes.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1564,20 +1693,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/SpeedConverter.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Speed Converter</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Speed Converter</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/SpeedConverter.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -1603,20 +1736,26 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/TeenNumberChecker.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Teen Number Checker</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Teen Number Checker</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Expressions_Statements_Methods/Challenge_Descriptions/TeenNumberChecker.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23;height:1.0cm'>
@@ -1627,7 +1766,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=585 colspan=3 valign=top style='width:438.85pt;border-top:none;
+  <td width=431 colspan=3 valign=top style='width:408.45pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1645,7 +1784,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:16.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=585 colspan=3 valign=top style='width:438.85pt;border-top:none;
+  <td width=431 colspan=3 valign=top style='width:408.45pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1711,20 +1850,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/AllFactors.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>All Factors</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>All Factors</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/AllFactors.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27;height:1.0cm'>
@@ -1749,20 +1892,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/DayOfTheWeek.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Day Of The Week</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Day Of The Week</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/DayOfTheWeek.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28;height:1.0cm'>
@@ -1787,20 +1934,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/DiagonalStar.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Diagonal Star</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Diagonal Star</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/DiagonalStar.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:29;height:1.0cm'>
@@ -1825,20 +1976,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/EvenDigitSum.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Even Digit Sum</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Even Digit Sum</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/DigitSum.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:30;height:1.0cm'>
@@ -1863,20 +2018,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/FirstAndLastDigitSum.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>First And Last Digit Sum</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>First And Last Digit Sum</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/FirstAndLastDigitSum.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:31;height:1.0cm'>
@@ -1901,20 +2060,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/FlourPackProblem.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Flour Pack Problem</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Flour Pack Problem</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/FlourPackProblem.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:32;height:1.0cm'>
@@ -1939,20 +2102,26 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/ForStatement.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>For Statement</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>For Statement</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/ForStatement.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:33;height:1.0cm'>
@@ -1977,20 +2146,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/GreatestCommonDivisor.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Greatest Common Divisor</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Greatest Common Divisor</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/GreatestCommonDivisor.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:34;height:1.0cm'>
@@ -2015,20 +2188,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/InputCalculator.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Input Calculator</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Input Calculator</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/InputCalculator.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:35;height:1.0cm'>
@@ -2053,20 +2230,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/LargestPrime.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Largest Prime</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Largest Prime</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/LargestPrime.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:36;height:1.0cm'>
@@ -2091,20 +2272,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/LastDigitChecker.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Last Digit Checker</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Last Digit Checker</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/LastDigitChecker.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:37;height:1.0cm'>
@@ -2129,20 +2314,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/MinAndMax.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Min And Max</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Min And Max</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/MinAndMax.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:38;height:1.0cm'>
@@ -2167,20 +2356,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/NumberInWorld.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Number In World</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Number In World</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/NumberInWorld.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:39;height:1.0cm'>
@@ -2205,20 +2398,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/NumberOfDaysInMonth.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Number Of Days In Month</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Number Of Days In Month</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/NumberOfDaysInMonth.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -2244,20 +2441,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/NumberPalindrome.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Number Palindrome</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Number Palindrome</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/NumberPalindrome.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
  </tr>
@@ -2283,20 +2484,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/NumberstToWords.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Numbers To Words</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Numbers To Words</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/NumbersToWords.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:42;height:1.0cm'>
@@ -2321,20 +2526,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/PaintJob.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Paint Job</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Paint Job</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/PaintJob.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:43;height:1.0cm'>
@@ -2359,20 +2568,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/PerfectNumber.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Perfect Number</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Perfect Number</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/PerfectNumber.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:44;height:1.0cm'>
@@ -2397,20 +2610,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/ReadingUserInputChallenge.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Reading User Input Challenge</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Reading User Input Challenge</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/ReadingUserInputChallenge.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:45;height:1.0cm'>
@@ -2435,20 +2652,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/SharedDigit.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Shared Digit</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Shared Digit</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/SharedDigit.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:46;height:1.0cm'>
@@ -2473,20 +2694,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/Sum3and5.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Sum 3 And 5</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Sum 3 And 5</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Sum3and5.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:47;height:1.0cm'>
@@ -2511,20 +2736,24 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/SumOdd.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Sum Odd</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Sum Odd</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/SumOdd.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:48;height:1.0cm'>
@@ -2549,23 +2778,27 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/Switch.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Switch</span></a><o:p></o:p></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Switch</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
-  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Switch.java"><span
-  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:49;mso-yfti-lastrow:yes;height:1.0cm'>
+ <tr style='mso-yfti-irow:49;height:1.0cm'>
   <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2587,10 +2820,111 @@ punctuation'>
   mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/WhileAndDoWhile.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>While And Do While</span></a></span></span><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/WhileAndDoWhile.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:50;height:1.0cm'>
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:51;height:1.0cm'>
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN-GB style='font-size:14.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></b><span class=MsoHyperlink><span lang=EN-GB
+  style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;mso-ansi-language:
+  EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:52;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:53;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span><span style='font-size:12.0pt'><o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
-  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/Challenge_Descriptions/WhileAndDoWhile.txt"><span
-  style='mso-bidi-font-family:"Segoe UI"'>While And Do While</span></a><o:p></o:p></span></p>
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/CarpetCostCaltulator.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Carpet Cost Calculator</span></a><o:p></o:p></span></p>
   </td>
   <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2599,7 +2933,597 @@ punctuation'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
-  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Control_Flow_Statements/WhileAndDoWhile.java"><span
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/CarpetCostCalculator.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:54;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/ComplexOperations.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Complex Operations</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/ComplexOperations.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:55;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/ConstructorsBankAccount.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Constructors Bank Account</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/ConstructorsBankAccount.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:56;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/ConstructorsVipCustomer.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Constructors Vip Customer</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/ConstructorsVipCustomer.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:57;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/Cylinder.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Cylinder</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Cylinder.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:58;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>6<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/InheritanceChallenge.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Inheritance Challenge</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/InheritanceChallenge.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:59;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>7<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/Person.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Person</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Person.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:60;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>8<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/Point.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Point</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Point.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:61;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>9<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/PoolArea.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Pool Area</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/PoolArea.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:62;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>10<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/SumCalculator.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Sum Calculator</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/SumCalculator.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:63;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>11<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
+  Inheritance</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/Challenge%20Descriptions/WallArea.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Wall Area</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Classes_Constructors_Inheritance/WallArea.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:64;height:1.0cm'>
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:65;height:1.0cm'>
+  <td width=464 colspan=4 valign=top style='width:432.75pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b style='mso-bidi-font-weight:normal'><span
+  lang=EN-GB style='font-size:14.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:66;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:67;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
+  Polymorphism<o:p></o:p></span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/Challenge%20Descriptions/BillsBurgersOOPMasterChallenge.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>BillsBurger OOP Master Challenge</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/BillsBurgersOOPMasterChallenge.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:68;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
+  Polymorphism</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/Challenge%20Descriptions/CarPolymorphismChallenge.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Car Polymorphism Challenge</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/CarPolymorphismChallenge.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:69;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
+  Polymorphism</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/Challenge%20Descriptions/PrinterEncapsulationChallenge.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Printer Encapsulation Challenge</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/PrinterEncapsulationChallenge.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:70;mso-yfti-lastrow:yes;height:1.0cm'>
+  <td width=32 valign=top style='width:24.3pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
+  </td>
+  <td valign=top style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
+  Polymorphism</span></p>
+  </td>
+  <td style='border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
+  border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/Challenge%20Descriptions/RoomCompositionChallenge.txt"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Room Composition Challenge</span></a><o:p></o:p></span></p>
+  </td>
+  <td width=114 valign=top style='width:85.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
+  font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/OOP_Composition_Encapsulation_Polymorphism/RoomCompositionChallenge.java"><span
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a></span></p>
   </td>
  </tr>
