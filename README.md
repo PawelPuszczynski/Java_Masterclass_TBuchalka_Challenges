@@ -15,15 +15,15 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>Paweł Puszczyński</o:Author>
   <o:LastAuthor>pawel.puszczynski</o:LastAuthor>
   <o:Revision>2</o:Revision>
-  <o:TotalTime>1408</o:TotalTime>
-  <o:Created>2020-04-08T08:11:00Z</o:Created>
-  <o:LastSaved>2020-04-08T08:11:00Z</o:LastSaved>
-  <o:Pages>5</o:Pages>
-  <o:Words>3804</o:Words>
-  <o:Characters>22825</o:Characters>
-  <o:Lines>190</o:Lines>
-  <o:Paragraphs>53</o:Paragraphs>
-  <o:CharactersWithSpaces>26576</o:CharactersWithSpaces>
+  <o:TotalTime>1428</o:TotalTime>
+  <o:Created>2020-04-09T17:59:00Z</o:Created>
+  <o:LastSaved>2020-04-09T17:59:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>4270</o:Words>
+  <o:Characters>25625</o:Characters>
+  <o:Lines>213</o:Lines>
+  <o:Paragraphs>59</o:Paragraphs>
+  <o:CharactersWithSpaces>29836</o:CharactersWithSpaces>
   <o:Version>15.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -661,11 +661,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  @font-face
 	{font-family:"Cambria Math";
 	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:1;
+	mso-font-charset:238;
 	mso-generic-font-family:roman;
-	mso-font-format:other;
 	mso-font-pitch:variable;
-	mso-font-signature:0 0 0 0 0 0;}
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
 @font-face
 	{font-family:Calibri;
 	panose-1:2 15 5 2 2 2 4 3 2 4;
@@ -924,7 +923,7 @@ punctuation'>
  style='margin-left:5.75pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
@@ -933,7 +932,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -943,14 +942,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -958,7 +957,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -966,8 +965,8 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -976,14 +975,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -992,7 +991,7 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Data Types,
   Operators<o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1000,8 +999,8 @@ punctuation'>
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Char and Boolean<o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -1016,14 +1015,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1032,7 +1031,7 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Data Types,
   Operators<o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1040,8 +1039,8 @@ punctuation'>
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Floating Point<o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1055,14 +1054,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1071,7 +1070,7 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Data Types,
   Operators<o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1079,8 +1078,8 @@ punctuation'>
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Operators<o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1094,14 +1093,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:6;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1110,7 +1109,7 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Data Types,
   Operators<o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1118,8 +1117,8 @@ punctuation'>
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Primitive Types<o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1133,14 +1132,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:7;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=570 colspan=4 valign=top style='width:427.5pt;border-top:none;
+  <td width=425 colspan=4 valign=top style='width:427.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1151,14 +1150,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:16.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=570 colspan=4 valign=top style='width:427.5pt;border-top:none;
+  <td width=425 colspan=4 valign=top style='width:427.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1169,14 +1168,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:9;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1184,7 +1183,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1193,8 +1192,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -1203,14 +1202,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:10;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1219,7 +1218,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1232,10 +1231,10 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 style='width:63.05pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <td width=90 style='width:80.2pt;border-top:none;border-left:none;border-bottom:
+  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:
+  solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span class=MsoHyperlink><span
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
@@ -1247,14 +1246,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:11;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1263,7 +1262,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1276,8 +1275,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1290,14 +1289,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:12;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1306,7 +1305,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1319,8 +1318,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1333,14 +1332,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:13;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1349,7 +1348,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1362,8 +1361,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1376,14 +1375,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:14;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1392,7 +1391,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1406,8 +1405,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1420,14 +1419,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:15;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>6<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1436,7 +1435,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1449,8 +1448,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1463,14 +1462,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:16;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>7<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1479,7 +1478,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1492,8 +1491,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1506,14 +1505,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:17;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>8<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1522,7 +1521,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1535,8 +1534,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1549,14 +1548,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:18;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>9<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1565,7 +1564,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1578,8 +1577,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1592,14 +1591,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:19;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>10<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1608,7 +1607,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1621,8 +1620,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1635,14 +1634,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:20;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>11<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1651,7 +1650,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1664,8 +1663,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1678,14 +1677,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:21;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>12<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1694,7 +1693,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1707,8 +1706,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1721,14 +1720,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:22;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>13<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1737,7 +1736,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Expressions, Statements, Methods</span><span
   lang=EN-GB style='font-size:12.0pt;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1750,8 +1749,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1765,14 +1764,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:23;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=570 colspan=4 valign=top style='width:427.5pt;border-top:none;
+  <td width=425 colspan=4 valign=top style='width:427.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1783,14 +1782,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:24;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:16.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=570 colspan=4 valign=top style='width:427.5pt;border-top:none;
+  <td width=425 colspan=4 valign=top style='width:427.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1801,14 +1800,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:25;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1816,7 +1815,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=163 colspan=2 valign=top style='width:122.5pt;border-top:none;
+  <td width=143 colspan=2 valign=top style='width:134.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1825,8 +1824,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -1835,14 +1834,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:26;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1851,7 +1850,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1864,8 +1863,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1877,14 +1876,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:27;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1893,7 +1892,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1906,8 +1905,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1919,14 +1918,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:28;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1935,7 +1934,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1948,8 +1947,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -1961,14 +1960,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:29;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1977,7 +1976,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -1990,8 +1989,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2003,14 +2002,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:30;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2019,7 +2018,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2032,8 +2031,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2045,14 +2044,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:31;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>6<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2061,7 +2060,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2074,8 +2073,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2087,14 +2086,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:32;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>7<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2103,7 +2102,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2116,8 +2115,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2131,14 +2130,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:33;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>8<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2147,7 +2146,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2160,8 +2159,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2173,14 +2172,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:34;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>9<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2189,7 +2188,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2202,8 +2201,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2215,14 +2214,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:35;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>10<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2231,7 +2230,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2244,8 +2243,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2257,14 +2256,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:36;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>11<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2273,7 +2272,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2286,8 +2285,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2299,14 +2298,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:37;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>12<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2315,7 +2314,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2328,8 +2327,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2341,14 +2340,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:38;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>13<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2357,7 +2356,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2370,8 +2369,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2383,14 +2382,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:39;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>14<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2399,7 +2398,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2412,8 +2411,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2426,14 +2425,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:40;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>15<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2442,7 +2441,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2455,8 +2454,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2469,14 +2468,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:41;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>16<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2485,7 +2484,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2498,8 +2497,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2511,14 +2510,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:42;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>17<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2527,7 +2526,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2540,8 +2539,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2553,14 +2552,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:43;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>18<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2569,7 +2568,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2582,8 +2581,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2595,14 +2594,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:44;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>19<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2611,7 +2610,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2624,8 +2623,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2637,14 +2636,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:45;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>20<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2653,7 +2652,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2666,8 +2665,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2679,14 +2678,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:46;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>21<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2695,7 +2694,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2708,8 +2707,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2721,14 +2720,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:47;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>22<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2737,7 +2736,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2750,8 +2749,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2763,14 +2762,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:48;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>23<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2779,7 +2778,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2792,8 +2791,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2805,14 +2804,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:49;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>24<o:p></o:p></span></p>
   </td>
-  <td width=323 valign=top style='width:241.95pt;border-top:none;border-left:
+  <td width=191 valign=top style='width:212.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2821,7 +2820,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>Control Flow Statements</span><span
   style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=163 colspan=2 style='width:122.5pt;border-top:none;border-left:
+  <td width=143 colspan=2 style='width:134.7pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2834,8 +2833,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2847,7 +2846,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:50;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2859,7 +2858,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:51;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2872,14 +2871,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:52;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2887,7 +2886,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2896,8 +2895,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -2906,14 +2905,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:53;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2922,7 +2921,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span><span style='font-size:12.0pt'><o:p></o:p></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2935,8 +2934,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2950,14 +2949,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:54;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2966,7 +2965,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -2979,8 +2978,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -2992,14 +2991,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:55;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3008,7 +3007,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3021,8 +3020,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3034,14 +3033,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:56;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3050,7 +3049,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3063,8 +3062,8 @@ punctuation'>
   Customer</span></a></span></span><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3076,23 +3075,22 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:57;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
   normal'><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
-  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
-  Inheritance</span></p>
+  color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors, Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3105,8 +3103,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3118,14 +3116,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:58;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>6<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3134,7 +3132,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3147,8 +3145,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3160,14 +3158,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:59;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>7<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3176,7 +3174,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3189,8 +3187,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3202,14 +3200,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:60;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>8<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3218,7 +3216,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3231,8 +3229,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3244,14 +3242,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:61;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>9<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3260,7 +3258,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3273,8 +3271,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3286,14 +3284,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:62;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>10<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3302,7 +3300,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3315,8 +3313,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3328,14 +3326,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:63;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:12.0pt;
   font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>11<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3344,7 +3342,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Classes, Constructors,
   Inheritance</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3357,8 +3355,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3370,7 +3368,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:64;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3382,7 +3380,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:65;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3395,14 +3393,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:66;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3410,7 +3408,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3419,8 +3417,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -3429,14 +3427,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:67;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3445,7 +3443,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
   Polymorphism<o:p></o:p></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3459,8 +3457,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3474,14 +3472,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:68;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3490,7 +3488,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
   Polymorphism</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3503,8 +3501,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3516,14 +3514,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:69;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3532,7 +3530,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
   Polymorphism</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3545,8 +3543,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3558,14 +3556,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:70;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3574,7 +3572,7 @@ punctuation'>
   color:#24292E;mso-ansi-language:EN-GB'>OOP – Composition, Encapsulation,
   Polymorphism</span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3587,8 +3585,8 @@ punctuation'>
   lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
   color:#24292E;mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3600,7 +3598,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:71;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3612,7 +3610,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:72;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3623,14 +3621,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:73;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3638,7 +3636,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3647,8 +3645,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -3657,14 +3655,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:74;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3673,7 +3671,7 @@ punctuation'>
   style='font-size:14.0pt;color:#24292E'>, <span class=SpellE>Lists</span>, <span
   class=SpellE>Autoboxing</span>, <span class=SpellE>Unboxing</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3684,8 +3682,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Arrays_Lists_Autoboxing/Challenge_Descriptions/ArrayListMobilePhone.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Array List Mobile Phone</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3697,14 +3695,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:75;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3713,7 +3711,7 @@ punctuation'>
   style='font-size:14.0pt;color:#24292E'>, <span class=SpellE>Lists</span>, <span
   class=SpellE>Autoboxing</span>, <span class=SpellE>Unboxing</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3725,8 +3723,8 @@ punctuation'>
   class=SpellE><span style='mso-bidi-font-family:"Segoe UI"'>Autoboxing</span></span><span
   style='mso-bidi-font-family:"Segoe UI"'> Unboxing Banking App</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3738,14 +3736,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:76;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3754,7 +3752,7 @@ punctuation'>
   style='font-size:14.0pt;color:#24292E'>, <span class=SpellE>Lists</span>, <span
   class=SpellE>Autoboxing</span>, <span class=SpellE>Unboxing</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3765,8 +3763,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Arrays_Lists_Autoboxing/Challenge_Descriptions/LinkedLisIopodt.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Linked List <span class=SpellE>Ipod</span></span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3778,14 +3776,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:77;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3794,7 +3792,7 @@ punctuation'>
   style='font-size:14.0pt;color:#24292E'>, <span class=SpellE>Lists</span>, <span
   class=SpellE>Autoboxing</span>, <span class=SpellE>Unboxing</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3805,8 +3803,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Arrays_Lists_Autoboxing/Challenge_Descriptions/MinimumElement.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Minimum Element</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3818,14 +3816,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:78;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3834,7 +3832,7 @@ punctuation'>
   style='font-size:14.0pt;color:#24292E'>, <span class=SpellE>Lists</span>, <span
   class=SpellE>Autoboxing</span>, <span class=SpellE>Unboxing</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3845,8 +3843,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Arrays_Lists_Autoboxing/Challenge_Descriptions/ReverseArray.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Reverse Array</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3858,7 +3856,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:79;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3870,7 +3868,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:80;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3882,14 +3880,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:81;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3897,7 +3895,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3906,8 +3904,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -3916,14 +3914,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:82;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3932,7 +3930,7 @@ punctuation'>
   EN-GB;mso-bidi-font-weight:bold'>Inner and Abstract Classes, Interfaces</span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3943,8 +3941,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/InnerAndAbstractClasses_Interfaces/InnerClassesChallengeDescription.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Inner Classes</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3956,14 +3954,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:83;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3972,7 +3970,7 @@ punctuation'>
   EN-GB;mso-bidi-font-weight:bold'>Inner and Abstract Classes, Interfaces</span><span
   lang=EN-GB style='mso-ansi-language:EN-GB'><o:p></o:p></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -3983,8 +3981,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/InnerAndAbstractClasses_Interfaces/InterfacesChallengeDescription.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Interfaces</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -3996,7 +3994,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:84;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4008,7 +4006,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:85;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4019,14 +4017,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:86;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4034,7 +4032,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4043,8 +4041,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -4053,14 +4051,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:87;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4068,7 +4066,7 @@ punctuation'>
   text-align:center;line-height:normal'><span lang=EN-GB style='font-size:16.0pt;
   color:#24292E;mso-ansi-language:EN-GB;mso-bidi-font-weight:bold'>Generics<o:p></o:p></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4079,8 +4077,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Generics/Generics-86-challenge.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Generics</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4092,7 +4090,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:88;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4104,7 +4102,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:89;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4117,14 +4115,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:90;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4132,7 +4130,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4141,8 +4139,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -4151,14 +4149,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:91;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4168,7 +4166,7 @@ punctuation'>
   color:#24292E;mso-bidi-font-weight:bold'>, <span class=SpellE>Scope</span>, <span
   class=SpellE>Naming</span> <span class=SpellE>Conventions</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4179,8 +4177,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Packages_Scope_Naming/Packages-challenge.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Packages</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4192,14 +4190,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:92;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4209,7 +4207,7 @@ punctuation'>
   color:#24292E;mso-bidi-font-weight:bold'>, <span class=SpellE>Scope</span>, <span
   class=SpellE>Naming</span> <span class=SpellE>Conventions</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4220,8 +4218,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Packages_Scope_Naming/Scope-challenge.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Scope</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4233,7 +4231,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:93;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4245,7 +4243,7 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:94;height:1.0cm'>
-  <td width=619 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4258,14 +4256,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:95;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4273,7 +4271,7 @@ punctuation'>
   line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
   </td>
-  <td width=151 valign=top style='width:113.2pt;border-top:none;border-left:
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4282,8 +4280,8 @@ punctuation'>
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
   Description<o:p></o:p></span></b></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
@@ -4292,14 +4290,14 @@ punctuation'>
   </td>
  </tr>
  <tr style='mso-yfti-irow:96;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4309,7 +4307,7 @@ punctuation'>
   16.0pt;color:#24292E;mso-bidi-font-weight:bold'> – <span class=SpellE>Sets</span>,
   <span class=SpellE>Maps</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4320,8 +4318,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sets-challenge.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Sets</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4332,15 +4330,15 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:97;mso-yfti-lastrow:yes;height:1.0cm'>
-  <td width=49 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+ <tr style='mso-yfti-irow:97;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
   line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
   "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
   </td>
-  <td width=335 colspan=2 valign=top style='width:251.25pt;border-top:none;
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4350,7 +4348,7 @@ punctuation'>
   16.0pt;color:#24292E;mso-bidi-font-weight:bold'> – <span class=SpellE>Sets</span>,
   <span class=SpellE>Maps</span></span></p>
   </td>
-  <td width=151 style='width:113.2pt;border-top:none;border-left:none;
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
@@ -4361,8 +4359,8 @@ punctuation'>
   href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sorted_Collections-challenge.txt"><span
   style='mso-bidi-font-family:"Segoe UI"'>Sorted Collections</span></a><o:p></o:p></span></span></p>
   </td>
-  <td width=84 valign=top style='width:63.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
   <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
@@ -4373,13 +4371,695 @@ punctuation'>
   style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
   </td>
  </tr>
+ <tr style='mso-yfti-irow:98;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:99;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:100;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><b><span
+  style='font-size:16.0pt;color:#24292E'>Concurrency</span></b></span><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:101;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:102;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Concurrency</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Concurrency Challenges 1 to 5<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Concurrency/Concurrency_Challenges_1-2-3-4-5.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:103;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Concurrency</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sorted_Collections-challenge.txt"><span
+  class=SpellE><span style='color:#24292E;text-decoration:none;text-underline:
+  none'>Concurrency</span></span></a> Challenge 6<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Concurrency/Concurrency_Challenge_6.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:104;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Concurrency</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sorted_Collections-challenge.txt"><span
+  class=SpellE><span style='color:#24292E;text-decoration:none;text-underline:
+  none'>Concurrency</span></span></a> Challenge 7<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Concurrency/Concurrency_Challenge_7.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:105;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Concurrency</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sorted_Collections-challenge.txt"><span
+  class=SpellE><span style='color:#24292E;text-decoration:none;text-underline:
+  none'>Concurrency</span></span></a> Challenge 8<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Concurrency/Concurrency_Challenge_8.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:106;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>5<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Concurrency</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Collections_Sets_Maps/Sorted_Collections-challenge.txt"><span
+  class=SpellE><span style='color:#24292E;text-decoration:none;text-underline:
+  none'>Concurrency</span></span></a> Challenge 9<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Concurrency/Concurrency_Challenge_9.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:107;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:108;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=SpellE><b><span
+  style='font-size:16.0pt;color:#24292E'>Regular</span></b></span><b><span
+  style='font-size:16.0pt;color:#24292E'> <span class=SpellE>Expressions</span></span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:109;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:110;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Regular</span></span><span style='font-size:16.0pt;
+  color:#24292E;mso-bidi-font-weight:bold'> <span class=SpellE>Expressions</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:14.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>Regex</span></span><span style='font-size:14.0pt;
+  color:#24292E;mso-bidi-font-weight:bold'> <span class=SpellE>Challenges</span>
+  1 to 12<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Regular_Expressions/Regex_Challenges_1_to_12.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:111;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:112;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
+  color:#24292E'>Lambda <span class=SpellE>Expressions</span></span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:113;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:114;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Expressions</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda Challenge 1<o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Lambda_Expressions/Lambda_Challenge1.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:115;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>2<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Expressions</span></span></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Challenges</span> 2 to 5</span><span
+  style='font-size:14.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Lambda_Expressions/Lambda_Challenges_2-3-4-5.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:116;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>3<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Expressions</span></span></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Challenges</span> 6 to 7</span><span
+  style='font-size:14.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Lambda_Expressions/Lambda_Challenges_6-7.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:117;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>4<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Expressions</span></span></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:14.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Lambda <span class=SpellE>Challenges</span> 9 to 14</span><span
+  style='font-size:14.0pt'><o:p></o:p></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Lambda_Expressions/Lambda_Challenges_9-to-14.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:118;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span lang=EN-GB style='font-size:
+  16.0pt;font-family:"Segoe UI",sans-serif;color:#24292E;mso-ansi-language:
+  EN-GB'>Java Programming Masterclass Challenges</span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:119;height:1.0cm'>
+  <td width=464 colspan=5 valign=top style='width:464.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><b><span style='font-size:16.0pt;
+  color:#24292E'>Debugging and Unit <span class=SpellE>Testing</span></span></b><span
+  class=MsoHyperlink><span lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:120;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Section<o:p></o:p></span></b></p>
+  </td>
+  <td width=139 valign=top style='width:127.6pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Challenge
+  Description<o:p></o:p></span></b></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><b><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>Solution<o:p></o:p></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:121;mso-yfti-lastrow:yes;height:1.0cm'>
+  <td width=39 valign=top style='width:36.55pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:12.0pt;text-align:center;
+  line-height:normal'><span lang=EN-GB style='font-size:12.0pt;font-family:
+  "Segoe UI",sans-serif;color:#24292E;mso-ansi-language:EN-GB'>1<o:p></o:p></span></p>
+  </td>
+  <td width=196 colspan=2 valign=top style='width:219.7pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span style='font-size:16.0pt;color:#24292E;mso-bidi-font-weight:
+  bold'>Debugging and Unit <span class=SpellE>Testing</span></span></p>
+  </td>
+  <td width=139 style='width:127.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+  normal'><span class=SpellE><span style='font-size:16.0pt;color:#24292E;
+  mso-bidi-font-weight:bold'>JUnit</span></span><span style='font-size:16.0pt;
+  color:#24292E;mso-bidi-font-weight:bold'> <span class=SpellE>Testing</span> <span
+  class=SpellE>Challenges</span> 1 to 10</span><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><o:p></o:p></span></span></p>
+  </td>
+  <td width=90 valign=top style='width:80.2pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:1.0cm'>
+  <p class=MsoNormal align=center style='margin-bottom:0cm;margin-bottom:.0001pt;
+  text-align:center;line-height:normal'><span class=MsoHyperlink><span
+  lang=EN-GB style='font-size:12.0pt;font-family:"Segoe UI",sans-serif;
+  mso-ansi-language:EN-GB'><a
+  href="https://github.com/PawelPuszczynski/Java_Masterclass_TBuchalka_Challenges/blob/master/Debugging_and_Unit_Testing/JUnitTesting_Challenges_1_to_10.java"><span
+  style='mso-bidi-font-family:"Segoe UI"'>Solution</span></a><o:p></o:p></span></span></p>
+  </td>
+ </tr>
  <![if !supportMisalignedColumns]>
  <tr height=0>
-  <td width=49 style='border:none'></td>
-  <td width=323 style='border:none'></td>
-  <td width=12 style='border:none'></td>
-  <td width=151 style='border:none'></td>
-  <td width=84 style='border:none'></td>
+  <td width=54 style='border:none'></td>
+  <td width=267 style='border:none'></td>
+  <td width=6 style='border:none'></td>
+  <td width=194 style='border:none'></td>
+  <td width=126 style='border:none'></td>
  </tr>
  <![endif]>
 </table>
